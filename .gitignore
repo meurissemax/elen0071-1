@@ -1,3 +1,7 @@
 .DS_Store
-Homework 1/Instructions/
-Homework 1/Report/
+
+Homework 1/Report/*
+!Homework 1/Report/main.pdf
+
+Homework 2/Report/*
+!Homework 2/Report/main.pdf
