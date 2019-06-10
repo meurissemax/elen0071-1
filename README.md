@@ -11,3 +11,8 @@ Homework realized as part of the *Applied digital signal processing* course give
 * **Quentin Graillet**
 * **Maxime Meurisse** - [meurissemax](https://github.com/meurissemax)
 * **Adrien Schoffeniels**
+
+## Scores
+
+* Homework 1 received a score of **19/20**.
+* Homework 2 received a score of **20/20**.
