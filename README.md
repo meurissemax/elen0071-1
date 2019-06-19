@@ -16,3 +16,4 @@ Homework realized as part of the *Applied digital signal processing* course give
 
 * Homework 1 received a score of **19/20**.
 * Homework 2 received a score of **20/20**.
+* Homework 3 received a score of **17/20**.
